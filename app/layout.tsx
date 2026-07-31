@@ -1,9 +1,9 @@
+import "./globals.css"
 import { Geist, Geist_Mono } from "next/font/google"
 
-import "./globals.css"
-import { ThemeProvider } from "@/components/theme-provider"
-import { cn } from "@/lib/utils";
-import Navbar from "@/components/navbar";
+import { ThemeProvider } from "../components/theme-provider"
+import { cn } from "../lib/utils";
+import Navbar from "../components/navbar";
 
 const geist = Geist({subsets:['latin'],variable:'--font-sans'})
 
