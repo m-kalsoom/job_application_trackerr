@@ -1,7 +1,7 @@
 import { ArrowRight, Briefcase, CheckCircle2, TrendingUp } from "lucide-react";
-import { Button } from "@/components/ui/button"
+import { Button } from "../components/ui/button";
 import Link from "next/link"; 
-import ImageTabs from "@/components/image-tabs"; 
+import ImageTabs from "../components/image-tabs"; 
 
 export default function Home() {
   return (
