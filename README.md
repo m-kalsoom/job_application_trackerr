@@ -45,7 +45,6 @@ It includes authentication,a Kanban board, MongoDB database integration, and a r
 
 ##  Application Workflow
 
-```text
 User
   ↓
 Next.js Frontend
