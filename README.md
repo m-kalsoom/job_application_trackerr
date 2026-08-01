@@ -45,14 +45,9 @@ It includes authentication,a Kanban board, MongoDB database integration, and a r
 
 ##  Application Workflow
 
-User
-  ↓
-Next.js Frontend
-  ↓
-API Routes
-  ↓
-Business Logic
-  ↓
-Mongoose
-  ↓
+User ->
+Next.js Frontend ->
+API Routes ->
+Business Logic ->
+Mongoose ->
 MongoDB Atlas
